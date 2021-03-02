@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Tray - Locaweb Commerce
+- 🌱 I’m currently learning AWS Cloud and Kubernetes
+- 👯 I’m looking to collaborate on IaC projects
+- 📫 How to reach me: https://www.linkedin.com/in/duran-lopes/
+
 <!--
 **duranlopes/duranlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
