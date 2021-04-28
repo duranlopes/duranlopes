@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Tray - Locaweb Commerce
+- 🔭 I’m currently working on PreventSenior
 - 🌱 I’m currently learning AWS Cloud and Kubernetes
-- 👯 I’m looking to collaborate on IaC projects
 - 📫 How to reach me: https://www.linkedin.com/in/duran-lopes/
 
 <!--
