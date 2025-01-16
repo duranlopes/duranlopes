@@ -1,6 +1,6 @@
 ### Hi there 😎
 
-- 🔭 I’m currently working as Site Reliability Engineer at C6 Bank
+- 🔭 I’m currently working as Site Reliability Engineer at iFood
 - 🔧 Specialties: ☁️ Cloud AWS, 🐳 Docker, 🎡 Kubernetes, Terraform , Ansible
 - 📫 How to reach me: https://www.linkedin.com/in/duran-lopes/
 
