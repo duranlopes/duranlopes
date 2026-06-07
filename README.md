@@ -10,9 +10,9 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou **Site Reliability Engineer** no **iFood**, apaixonado por infraestrutura em nuvem, automação e sistemas distribuídos. Focado em construir e manter infraestruturas resilientes e escaláveis.
+**Site Reliability Engineer** at **iFood**, passionate about cloud infrastructure, automation, and distributed systems. Focused on building and maintaining resilient, scalable infrastructure.
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ Sou **Site Reliability Engineer** no **iFood**, apaixonado por infraestrutura em
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duranlopes&theme=tokyonight&hide_border=true" />
 </div>
 
-## 📌 Repositórios em Destaque
+## 📌 Featured Repositories
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ Sou **Site Reliability Engineer** no **iFood**, apaixonado por infraestrutura em
   </tr>
 </table>
 
-## 🌐 Onde me encontrar
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/duran-lopes/">
