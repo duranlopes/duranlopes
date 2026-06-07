@@ -34,8 +34,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duranlopes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duranlopes&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duranlopes&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duranlopes&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duranlopes&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -44,32 +48,20 @@
 
 ## 📌 Featured Repositories
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/duranlopes/bootcamp-devops">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=duranlopes&repo=bootcamp-devops&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/duranlopes/k8s-iac">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=duranlopes&repo=k8s-iac&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/duranlopes/backup_ubnt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=duranlopes&repo=backup_ubnt&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/duranlopes/tv_control">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=duranlopes&repo=tv_control&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/duranlopes/bootcamp-devops">
+    <img src="https://img.shields.io/badge/bootcamp--devops-DevOps%20Study-2ea44f?style=for-the-badge&logo=javascript" />
+  </a>
+  <a href="https://github.com/duranlopes/k8s-iac">
+    <img src="https://img.shields.io/badge/k8s--iac-Kubernetes%20IaC-326CE5?style=for-the-badge&logo=kubernetes" />
+  </a>
+  <a href="https://github.com/duranlopes/backup_ubnt">
+    <img src="https://img.shields.io/badge/backup__ubnt-UBNT%20Backup-FF6600?style=for-the-badge&logo=python" />
+  </a>
+  <a href="https://github.com/duranlopes/tv_control">
+    <img src="https://img.shields.io/badge/tv__control-Samsung%20TV%20App-00BFFF?style=for-the-badge&logo=python" />
+  </a>
+</p>
 
 ## 🌐 Connect with me
 
